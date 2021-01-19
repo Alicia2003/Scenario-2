@@ -1,0 +1,36 @@
+h1{
+   background-image: url("https://media.istockphoto.com/photos/abstract-patriotic-red-white-and-blue-background-picture-id957629748?k=6&m=957629748&s=170667a&w=0&h=cJBgMToEQ0hkLUIW3PJL84kJp59RsU1logb6mF53nfo=");
+    background-size: 1200px ;
+    border:double red 3px; 
+    text-align:center;
+    text-shadow: 3px 1px black;
+    color:red;
+     }
+
+body{
+     text-align:center;
+     background-image:url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/red%2Cwhite%2Cblue-background-design-template-3b143617ad1c9b06270da173cd635fe6_screen.jpg?ts=1573530998");
+    background-size: 1300px ;
+}
+
+.Dem{
+   color:#F94545;
+   background:blue;
+   font-size: 18px;
+   font-family:Copperplate;
+   text-shadow: 1px 1px black;
+}
+
+.Rep{
+  color:#3C50B6;
+  background:red;
+  font-size: 18px;
+  font-family:Copperplate;
+   text-shadow: 2px 1px black;
+}
+
+img{
+    width: 50%;
+    margin: auto;
+    display: block;
+    }
