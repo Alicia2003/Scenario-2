@@ -22,6 +22,6 @@ $(".Rep").click(function() {
 $(".Dem").click(function() {
      demo+=90;
      winner(); 
-  }); 
+  });
 
 
